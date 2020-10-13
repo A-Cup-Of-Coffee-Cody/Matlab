@@ -1,4 +1,7 @@
 # Matlab Reference ©Copyrights The MathWorks, Inc.
+# Content
+1. Matlab Codes: All example and associated files
+2. Resources: References, published article/tutorials, documentation, etc
 # How to use codes?
 1. If you are plannng to use Facial Recognition codes, remember to unzip 'FaceDatabaseATT' and place it into Matlab's current folder before running the test codes.
 # Reference links:

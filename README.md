@@ -1,4 +1,6 @@
 # Matlab Reference ©Copyrights The MathWorks, Inc.
+# How to use codes?
+1. If you are plannng to use Facial Recognition codes, remember to unzip 'FaceDatabaseATT' and place it into Matlab's current folder before running the test codes.
 # Reference links:
 Histogram Contrast Stretch https://www.mathworks.com/help/images/ref/stretchlim.html                                               
 Image Processing https://www.mathworks.com/matlabcentral/fileexchange/46318-example-files-for-image-processing-made-easy-webinar                                 

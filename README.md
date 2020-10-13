@@ -10,5 +10,6 @@ Computer Vision (Examples) https://www.mathworks.com/help/vision/getting-started
 # Matlab Toolboxes used:
 Image Processing https://www.mathworks.com/products/image.html                                       
 Computer Vision https://www.mathworks.com/products/computer-vision.html                                             
+Deep Learning https://www.mathworks.com/help/deeplearning/index.html                                                    
 Parallel Computing https://www.mathworks.com/products/parallel-computing.html#:~:text=Parallel%20Computing%20Toolbox%E2%84%A2%20lets,%2C%20GPUs%2C%20and%20computer%20clusters.&text=The%20toolbox%20lets%20you%20use,of%20a%20model%20in%20parallel.
 

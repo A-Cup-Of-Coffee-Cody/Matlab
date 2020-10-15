@@ -3,7 +3,8 @@
 1. Matlab Codes: All example and associated files
 2. Resources: References, published article/tutorials, documentation, etc
 # How to use codes?
-1. If you are plannng to use Facial Recognition codes, remember to unzip 'FaceDatabaseATT' and place it into Matlab's current folder before running the test codes.
+1. If you are plannng to use Facial Recognition codes, remember to unzip 'FaceDatabaseATT' and place it into Matlab's current folder before running the test codes.          
+2. While using Video_Counting.mlx note to use still background videos with only target object moving.                         
 # Reference links:
 Histogram Contrast Stretch https://www.mathworks.com/help/images/ref/stretchlim.html                                               
 Image Processing https://www.mathworks.com/matlabcentral/fileexchange/46318-example-files-for-image-processing-made-easy-webinar                                 
